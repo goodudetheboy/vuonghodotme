@@ -2,90 +2,81 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Vuong Ho
+Vuong Ho
+Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+hochivuong2002@gmail.com
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+(585) 606-0796
 
 Location
-Sacramento, California, USA
+Rochester, New York, USA
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I'm a Software Engineer and Computer Science student at the University of Rochester, specializing in full-stack development, mobile apps, and AI. With a strong foundation in both Computer Science and Applied Mathematics, I excel at turning complex problems into efficient, user-friendly solutions. My experience ranges from co-founding a startup to interning at Google, where I've developed scalable applications and optimized systems. I'm passionate about leveraging technology to create impactful solutions in education, healthcare, and beyond.
 
 ## service
 
-What i'm doing
+What I'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+alt = Software Development icon
+Software Development
+High-quality development of software solutions at a professional level.
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
-
-alt = mobile app icon
-Mobile apps
+alt = Mobile App icon
+Mobile App Development
 Professional development of applications for iOS and Android.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+alt = AI icon
+AI and Machine Learning
+Implementing cutting-edge AI and ML solutions for various applications.
 
+alt = Web Development icon
+Web Development
+Creating responsive and user-friendly web applications.
 
-## testimonials
+## skills
 
-Testimonials
+My skills
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Python
+90%
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Java
+85%
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+JavaScript
+80%
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Flutter
+75%
 
+Kotlin
+70%
 
-## clients
+C/C++
+75%
 
-Clients
+SQL
+80%
 
-alt = client logo
-
-
+React.js
+70%
 
 # resume
 
@@ -93,139 +84,87 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+University of Rochester
+Expected Dec 2025
+MS in Computer Science
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+University of Rochester
+May 2024
+BS in Computer Science, BS in Applied Mathematics, Operations Research Certificate
+GPA: 3.80/4.00
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+CodePath
+May – Aug 2022
+Advanced Software Engineering Certificate
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Co-Founder & Lead Software Engineer
+Startup
+Dec 2022 – Oct 2023
+- Drove the development of an app allowing patients to schedule appointments in advance at participating hospitals.
+- Orchestrated a 3-person team to successfully deliver a multi-component system comprising a user-facing Flutter mobile app, a React appointment management web app, and Firebase Node backend, supporting up to ~15K concurrent users.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Software Engineer Intern
+Vietnam Tech Society
+Jun 2022 – Jan 2023
+- Successfully completed a feature-rich project enabling users to configure, modify, and filter by appointment availability.
+- Deployed "Filter by availability" on main production with 100% test coverage, driving a 90% increase in user retention.
+- Reduced server cost by 25% by optimizing backend Firebase functions to operate dynamically rather than periodically.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Software Engineer Intern
+Google
+May – August 2021
+- Developed a feature for OpenStreetMap's Android map editor app Vespucci as part of Google Summer of Code 2021.
+- Implemented an evaluator that processes opening hours of over 140,000 locations with Gradle and Github Actions CI.
+- Supported a grammar of over 80 rules, increasing coverage from the previous 10% to ~100% of the full specification.
 
-My skills
-
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
-
+Teaching Assistant
+University of Rochester
+Sep 2021 – Present
+- Courses: Artificial Intelligence, Computation & Formal System, Programming Language Design, Discrete Mathematics.
+- Lead weekly study sessions/office hours of 30 students to cover learning materials in course lectures and assignments.
 
 # portfolio
 
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Web Development
+Mobile Apps
+AI Projects
 
-Select category
-All
-Web design
-Applications
-Web development
+alt = EduVision
+EduVision
+AI Project
 
-alt = finance
-Finance
-Web development
+alt = Convenient Essay
+Convenient Essay
+Web Development
 
-alt = orizon
-Orizon
-Web development
+alt = OpenStreetMap Editor
+OpenStreetMap Editor
+Mobile Apps
 
-alt = fundo
-Fundo
-Web design
+alt = Patient Appointment App
+Patient Appointment App
+Mobile Apps
 
-alt = brawlhalla
-Brawlhalla
-Applications
+# awards
 
-alt = dsm.
-DSM.
-Web design
+Awards
 
-alt = metaspark
-MetaSpark
-Web design
+YHack 2024 Hackathon at Yale University — Best Education Award
+March 2024
 
-alt = summary
-Summary
-Web development
+DandyHacks'23 Hackathon at University of Rochester — Most Dandy Hack Award
+Nov 2023
 
-alt = task manager
-Task Manager
-Applications
+ICPC Northeast North America Regional Contest 2023 — Rank 36/93
+Oct 2023
 
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
+ICPC Northeast North America Regional Contest 2022 — Rank 15/84 — Bronze Medal
+Feb 2023
 
 # contact
 
